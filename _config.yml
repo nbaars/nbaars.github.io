@@ -9,7 +9,7 @@ name: NB
 author: Nanne Baars
 
 # Short bio or description (displayed in the header)
-description: Blog about random programming and security related stuff
+description: Random programming and security related stuff
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -29,7 +29,7 @@ footer-links:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: amit_merchant
+  twitter: OWASP_WebGoat
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ footer-links:
 #disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics:
+google_analytics: UA-153553470-1
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
