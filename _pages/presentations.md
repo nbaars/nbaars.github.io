@@ -3,6 +3,12 @@ layout: page
 title: Presentations
 permalink: /presentations/
 ---
+## 2020
+
+
+- May - JavaFest Ukraine (online) [**Web application security for developers**](https://javafest.com.ua/)
+- ~~March - Devoxx France~~ [**WebGoat-Workshop: Teaching Web-Application Security 101**](https://cfp.devoxx.fr/2020/talk/PCV-1074/Application_security_101_with_WebGoat)
+- ~~March - VoxxedDays Romania~~ [**Writing secure code is hard or is it?**](https://romania.voxxeddays.com/2020/02/16/writing-secure-code-is-hard-or-is-it/)
 
 ## 2019
 
