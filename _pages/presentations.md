@@ -9,6 +9,7 @@ permalink: /presentations/
 - May - JavaFest Ukraine (online) [**Web application security for developers**](https://javafest.com.ua/)
 - ~~March - Devoxx France~~ [**WebGoat-Workshop: Teaching Web-Application Security 101**](https://cfp.devoxx.fr/2020/talk/PCV-1074/Application_security_101_with_WebGoat)
 - ~~March - VoxxedDays Romania~~ [**Writing secure code is hard or is it?**](https://romania.voxxeddays.com/2020/02/16/writing-secure-code-is-hard-or-is-it/)
+- March - Meetup Köln cologne0x04 - [**Learning JavaEE Hacking with OWASP WebGoat**](https://www.meetup.com/nl-NL/root-cologne/events/268923256/)
 
 ## 2019
 
