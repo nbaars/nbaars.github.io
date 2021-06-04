@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Welcome to my page, I'm Nanne and I develop mostly in Java and in the area of security where development touches security.
+Welcome to my page, I'm Nanne and I develop mostly in Java/Kotlin and in the area of security where development touches security.
 In my spare time I'm one of the project leaders of the [OWASP WebGoat project](https://webgoat.github.io/WebGoat/) and
 maintain a couple of open source projects.
 
