@@ -17,6 +17,12 @@ This project is under the OWASP flag and I'm one of the project leaders.
 
 [[Github]](https://github.com/WebGoat/WebGoat) [[Homepage]](https://webgoat.github.io/WebGoat/) [[OWASP Page]](https://www2.owasp.org/www-project-webgoat/)
 
+## OWASP Dependency-Check all in one image
+
+A Docker image that is created every day at 0:00 with a local data file so OWASP Dependency-Check is ready to analyze your project. This image is self-contained, it contains the H2 database that can run as a Docker image from the pipeline. No need to setup a database maintain it etc.
+
+[[Github]](https://github.com/nbaars/owasp-dependency-check-as-one) [[OWASP Dependency-Check]](https://owasp.org/www-project-dependency-check/)
+
 
 ## paseto4j
 
