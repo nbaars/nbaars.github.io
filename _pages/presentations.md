@@ -3,8 +3,11 @@ layout: page
 title: Presentations
 permalink: /presentations/
 ---
-## 2020
+## 2021
 
+- September - DevSecOps Road Trip [**From attack to writing code...what do you need to know as a developer?**](https://www.youtube.com/watch?v=WBfF4gD3984) <a class="svg-icon youtube" href="https://www.youtube.com/watch?v=WBfF4gD3984"></a>
+
+## 2020
 
 - May - JavaFest Ukraine (online) [**Web application security for developers**](https://javafest.com.ua/)
 - ~~March - Devoxx France~~ [**WebGoat-Workshop: Teaching Web-Application Security 101**](https://cfp.devoxx.fr/2020/talk/PCV-1074/Application_security_101_with_WebGoat)
