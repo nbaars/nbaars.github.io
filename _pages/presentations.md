@@ -3,6 +3,13 @@ layout: page
 title: Presentations
 permalink: /presentations/
 ---
+## 2023
+- February - OWASP training: Web Application Security Essentials [(2-day training course)](https://dublin.globalappsec.org/trainings/)
+
+## 2022
+
+- September - Internal meetup @ InTraffic **Web application security for developers**
+
 ## 2021
 
 - September - DevSecOps Road Trip [**From attack to writing code...what do you need to know as a developer?**](https://www.youtube.com/watch?v=WBfF4gD3984) <a class="svg-icon youtube" href="https://www.youtube.com/watch?v=WBfF4gD3984"></a>
